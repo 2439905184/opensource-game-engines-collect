@@ -5,3 +5,4 @@
 | godot|  https://godotengine.org | yes | gds/c#/native script | c++ |
 | Fyrox engine | https://fyrox.rs | yes | rust | rust |
 | love2d | https://love2d.org | no | lua | c++ |
+| Flax engine | https://www.flaxengine.com | yes | c#/c++ | c#/c++ |

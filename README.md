@@ -6,3 +6,4 @@
 | Fyrox engine | https://fyrox.rs | yes | rust | rust |
 | love2d | https://love2d.org | no | lua | c++ |
 | Flax engine | https://www.flaxengine.com | yes | c#/c++ | c#/c++ |
+| irrlicht | https://irrlicht.sourceforge.io/| no | c++ | c++ |

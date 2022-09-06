@@ -7,3 +7,4 @@
 | love2d | https://love2d.org | no | lua | c++ |
 | Flax engine | https://www.flaxengine.com | yes | c#/c++ | c#/c++ |
 | irrlicht | https://irrlicht.sourceforge.io/| no | c++ | c++ |
+| libgdx | https://libgdx.com/ | no | java/c++ | java/c++ |

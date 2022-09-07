@@ -8,3 +8,6 @@
 | Flax engine | https://www.flaxengine.com | yes | c#/c++ | c#/c++ |
 | irrlicht | https://irrlicht.sourceforge.io/| no | c++ | c++ |
 | libgdx | https://libgdx.com/ | no | java/c++ | java/c++ |
+
+## 游戏引擎和教程
+[https://www.bilibili.com/read/cv4695597](https://www.bilibili.com/read/cv4695597)

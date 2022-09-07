@@ -9,6 +9,6 @@
 | irrlicht | https://irrlicht.sourceforge.io/| no | c++ | c++ |
 | libgdx | https://libgdx.com/ | no | java/c++ | java/c++ |
 | Piccolo Engine|  https://github.com/BoomingTech/Piccolo | ? | ? | c++ |
-
+| nCine | https://ncine.github.io/ | no | lua/c++ | c++ |
 ## 游戏引擎和教程
 [https://www.bilibili.com/read/cv4695597](https://www.bilibili.com/read/cv4695597)
